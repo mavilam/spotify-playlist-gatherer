@@ -1,0 +1,12 @@
+{
+  "name": "spotify-playlist-gatherer",
+  "version": "0.1.0",
+  "description": "Gather all playlists from a year and merge them into the year sum up playlist",
+  "main": "main.js",
+  "author": "mavilam",
+  "license": "ISC",
+  "dependencies": {
+    "spotify-web-api-node": "^5.0.2",
+    "winston": "^3.3.3"
+  }
+}
