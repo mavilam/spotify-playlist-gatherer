@@ -1,7 +1,7 @@
 'use strict'
 
 const SpotifyWebApi = require('spotify-web-api-node')
-const logger = require('./logger')
+const {logger} = require('./logger')
 const config = require('./config')
 
 var spotifyApi = new SpotifyWebApi(config.spotifyCredentials)
