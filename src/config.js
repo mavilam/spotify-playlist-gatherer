@@ -6,7 +6,7 @@ module.exports = {
     clientSecret: 'YOUR_CLIENT_SECRET',
     accessToken: 'YOUR_TOKEN'
   },
-  year: 2021,
-  plalistName: `True 2021 favourites songs`
+  year: 2022,
+  plalistName: `True 2022 favourites songs`
 }
 
